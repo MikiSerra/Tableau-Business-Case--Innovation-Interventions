@@ -1,7 +1,7 @@
 # Business Case Analysis: Digital Finance Interventions
 
 ## Overview
-
+![Tableau Business Case](Screenshots/Story2.png)
 This repository contains an analysis of various digital finance interventions across different countries, focusing on financial inclusion, mobile banking, digital insurance, and fintech solutions. The data is visualized using **Tableau** and success metrics are calculated based on the outcomes of different projects.
 
 ### Key Areas of Focus:
